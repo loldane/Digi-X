@@ -1,0 +1,18 @@
+
+        [{
+            "productSKU": "ipd",
+            "productName": "Super iPad",
+            "productPrice": 549.99
+        },{
+            "productSKU": "mbp",
+            "productName": "MacBook Pro",
+            "productPrice": 1399.99
+        },{
+            "productSKU": "atv",
+            "productName": "Apple TV",
+            "productPrice": 109.50
+        },{
+            "productSKU": "vga",
+            "productName": "VGA adapter",
+            "productPrice": 30.00
+        }]
